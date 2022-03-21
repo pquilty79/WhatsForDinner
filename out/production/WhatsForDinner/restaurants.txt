@@ -1,0 +1,27 @@
+Paloma Blanca, Mexican
+El Tequila, Mexican
+Papa Nachos, Mexican
+Lupe Tortilla, Mexican
+Torchy's, Mexican
+Julianna's, American
+Pasha, Middle Eastern
+Kabachi Grill, Middle Eastern
+Bubba's 33, American
+54th Street, American
+India Oven, Indian
+Texas Roadhouse, Steak
+Brasao, Steak
+Boss Bagel, Breakfast
+Anchor, Wings
+Pluckers, Wings
+Dough, Pizza
+Grimaldi's, Pizza
+Pappadeaux, Seafood
+Smashin' Crab, Seafood
+Taco Palenque, Breakfast
+Wapo Taco, Breakfast
+Cracker Barrel, Breakfast
+Chick Fil-A, FastFood
+Burger Boy, FastFood
+Raising Caine's, FastFood
+Las Palapos, Breakfast
